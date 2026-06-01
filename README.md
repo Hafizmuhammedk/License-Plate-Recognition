@@ -4,14 +4,6 @@ License-Plate-Recognition is a Python computer vision project for detecting vehi
 
 ## Detection Preview
 
-Add your detection GIF at:
-
-```text
-assets/detection.gif
-```
-
-Then this preview will render on GitHub:
-
 ![License plate detection preview](assets/detection.gif)
 
 ## Features
